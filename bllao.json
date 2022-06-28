@@ -250,7 +250,7 @@
      "searchable":1,
      "quickSearch":1,
      "filterable":0,
-"ext":"https://ydu0159.github.io/blu/LIBVIO.json"
+     "ext":"https://ydu0159.github.io/blu/LIBVIO.json"
       },
      {
       "key":"csp_biubiu_厂长资源-蓝光",
@@ -290,7 +290,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
-"ext":"https://ydu0159.github.io/xp/naifeiorg.json"
+       "ext":"https://ydu0159.github.io/xp/naifeiorg.json"
        },
        {
        "key":"csp_biubiu_奈菲影院",
@@ -310,7 +310,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":0,
-"ext":"https://ydu0159.github.io/biu/dunkfun.json"
+       "ext":"https://ydu0159.github.io/biu/dunkfun.json"
       },
       {
        "key":"csp_biubiu_影视工厂",
@@ -319,8 +319,8 @@
        "api":"csp_XBiubiu",
        "searchable":1,
        "quickSearch":1,
-      "filterable":0,
-"ext":"https://ydu0159.github.io/biu/ysgc2.json"
+       "filterable":0,
+       "ext":"https://ydu0159.github.io/biu/ysgc2.json"
       },
       {
       "key":"csp_biubiu_瓜皮TV",
@@ -330,7 +330,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":0,
-"ext":"https://ydu0159.github.io/biu/guapiTV.json"
+      "ext":"https://ydu0159.github.io/biu/guapiTV.json"
      },
      {
       "key":"csp_biubiu_奈落影院",
@@ -350,7 +350,7 @@
       "searchable":1,
       "quickSearch":1,
       "filterable":1,
-"ext":"https://ydu0159.github.io/xp/jubaibai.json"
+      "ext":"https://ydu0159.github.io/xp/jubaibai.json"
       },
       {
      "key":"csp_biubiu_天空资源",
@@ -370,8 +370,7 @@
       "searchable":0,
       "quickSearch":0,
       "filterable":1,
-  "ext":"https://ydu0159.github.io/xp/dandanzan1 
-   0.json"
+      "ext":"https://ydu0159.github.io/xp/dandanzan10.json"
       },
       {
        "key":"csp_xpath_pianku",
@@ -381,7 +380,7 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":0,
-  "ext":"https://ydu0159.github.io/xp/pianku.json"
+       "ext":"https://ydu0159.github.io/xp/pianku.json"
        },
       {
        "key":"csp_biubiu_斗鱼",
@@ -391,7 +390,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":0,
-"ext":"https://ydu0159.github.io/biu/douyu.json"
+       "ext":"https://ydu0159.github.io/biu/douyu.json"
        },
        {
        "key":"csp_xpath_saohuotv",
@@ -401,7 +400,7 @@
        "searchable":1,
        "quickSearch":1,
        "filterable":0,
-"ext":"https://ydu0159.github.io/xp/saohuotv2.json"
+       "ext":"https://ydu0159.github.io/xp/saohuotv2.json"
       },
      {
        "key":"csp_xpath_kuqimv",
@@ -411,9 +410,9 @@
        "searchable":0,
        "quickSearch":0,
        "filterable":0,
-"ext":"https://ydu0159.github.io/xp/kuqimv.json"
+       "ext":"https://ydu0159.github.io/xp/kuqimv.json"
        },
-    {
+       {
       "key": "诺讯采集",
       "name": "诺讯采集",
       "type": 0,
