@@ -28,6 +28,25 @@
       "filterable": 0
     },
     {
+     "key":"spider_Bttoo",
+     "name":"📚2BT(SP)",
+     "type":3,
+     "api":"csp_Bttoo",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1
+    },
+    {
+     "key":"csp_appys_美剧虫",
+     "name":"美剧虫(V1)",
+     "type":3,
+     "api":"csp_AppYs",
+     "searchable":1,
+     "quickSearch":1,
+     "filterable":1,
+     "ext":"https://meijuchong.com/api.php/v1.vod"
+    },
+    {
       "key": "csp_kuaikan",
       "name": "👀快看(SP)",
       "type": 3,
